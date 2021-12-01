@@ -22,7 +22,7 @@ export default function WeatherInfo(props) {
             {props.data.feelsLike}º
           </div>
           <div className="picweather">
-            <WeatherIcon code={props.data.icon} />
+            <WeatherIcon code={props.data.icon} size={52} />
           </div>
           <span className="picDescription" id="description">
             {props.data.description}

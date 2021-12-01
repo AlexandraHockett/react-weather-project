@@ -90,12 +90,17 @@
   margin-top: 40px;
 }
 
+.WeatherForecas{
+    text-align: center;
+}
+
 .weather-forecast-date {
   font-size: 16px;
   opacity: 0.5;
 }
 .weather-forecast-min {
-  opacity: 0.5;
+  opacity: 0.6;
+  margin-left: ;
 }
 
 .weather-forecast-temperature {
